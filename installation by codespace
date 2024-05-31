@@ -1,1 +1,24 @@
 
+First you need to create a new github repository and and go inside codespace and click on + button
+
+new terminal open of codespace
+on serach bar serch 
+>add dev   (automatic take )
+modify
+then serach 
+terraform  ( jaha right hai it means jo verified hai usse choose krke ok krna hai )
+keep default
+
+ON terminal : terraform --version 
+but still terraform not installed 
+
+>add  dev
+modify
+search aws (on top first verfied )
+Okay
+keep default
+
+ON terminal : aws --version 
+But still not aws not installed 
+
+Now search rebuild container and click on it
